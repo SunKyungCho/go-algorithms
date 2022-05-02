@@ -1,15 +1,15 @@
 package main
 
-import "fmt"
-
-type User struct {
-	name string
-	age  int
-}
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
 
-	m := map[string]string{"a": "1"}
-	s2 := m["a"]
-	fmt.Println(s2)
+	a := "helloworld"
+	b := "heis"
+
+	fmt.Println(strings.HasPrefix(b, a))
+
 }
