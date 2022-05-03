@@ -5,3 +5,6 @@
 
 ## String
 [14. Longest Common Prefix](string/longest_common_prefix.go)
+
+## Array
+[26. Remove Duplicates from Sorted Array](array/remove_duplicates_from_sorted_array.go)
