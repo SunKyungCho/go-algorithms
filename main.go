@@ -2,14 +2,11 @@ package main
 
 import (
 	"fmt"
-	"strings"
 )
 
 func main() {
 
-	a := "helloworld"
-	b := "heis"
-
-	fmt.Println(strings.HasPrefix(b, a))
+	nums := []int{1, 2, 3, 4, 5}
+	fmt.Println(nums[1:10])
 
 }
