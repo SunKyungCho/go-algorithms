@@ -47,6 +47,12 @@ func maxSubArray(nums []int) int {
 	}
 	return max
 }
+오류 발견
+단순히 최대 값만들구하면 되는 문제였다.
+때문에 순차적으로 값을 더해나간다.
+0보다 작으면 무조껀 최대 값이 될 수 없으므로
+
+
 
 */
 
@@ -62,8 +68,8 @@ func maxSubArray(nums []int) int {
 			sum = nums[i]
 		} else {
 			sum += nums[i]
-			maximum = max(maximum, sum)
 		}
+		maximum = max(maximum, sum)
 	}
 	return maximum
 }
