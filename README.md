@@ -9,3 +9,6 @@
 
 ## Array
 [26. Remove Duplicates from Sorted Array](array/remove_duplicates_from_sorted_array.go)
+
+## DP
+[53. Maximum Subarray](dp/maxximum_subarray.go)
