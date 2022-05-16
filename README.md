@@ -9,6 +9,7 @@
 
 ## Array
 [26. Remove Duplicates from Sorted Array](array/remove_duplicates_from_sorted_array.go)
+[66. Plus One](array/plus_one.go)
 
 ## DP
 [53. Maximum Subarray](dp/maxximum_subarray.go)
