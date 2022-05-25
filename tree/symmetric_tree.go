@@ -1,11 +1,5 @@
 package tree
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 /*
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 거울에 비치넛 처럼 root의 왼쪽 노드와 오른쪽 오드가 대칭인지 파악하라

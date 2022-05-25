@@ -17,3 +17,4 @@
 
 ## tree
 * [101. Symmetric Tree](tree/symmetric_tree.go)
+* [104. Maximum Depth of Binary Tree](tree/maximum_depth-of_binary_tree.go)
