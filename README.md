@@ -11,6 +11,7 @@
 * [26. Remove Duplicates from Sorted Array](array/remove_duplicates_from_sorted_array.go)
 * [66. Plus One](array/plus_one.go)
 * [88. Merge Sorted Array](array/merge_sorted_array.go)
+* [136. Single Number](array/sigle_number.go)
 
 ## DP
 * [53. Maximum Subarray](dp/maxximum_subarray.go)
