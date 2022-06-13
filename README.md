@@ -12,6 +12,7 @@
 * [66. Plus One](array/plus_one.go)
 * [88. Merge Sorted Array](array/merge_sorted_array.go)
 * [136. Single Number](array/sigle_number.go)
+* [프로그래머스 모의고사](array/math_failed.go)
 
 ## DP
 * [53. Maximum Subarray](dp/maxximum_subarray.go)
